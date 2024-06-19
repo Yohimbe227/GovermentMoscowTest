@@ -1,0 +1,34 @@
+{
+    "company": {
+        "name": "Tech Solutions",
+        "location": "Silicon Valley",
+        "departments": {
+            "development": {
+                "head": "Alice Johnson",
+                "teams": {
+                    "backend": {
+                        "lead": "Bob Smith",
+                        "members": ["John Doe", "Jane Doe"]
+                    },
+                    "frontend": {
+                        "lead": "Carol White",
+                        "members": ["Eve Black", "Grace Green"]
+                    }
+                }
+            },
+            "marketing": {
+                "head": "David Brown",
+                "teams": {
+                    "seo": {
+                        "lead": "Frank Blue",
+                        "members": ["Hank Orange", "Ivy Purple"]
+                    },
+                    "content": {
+                        "lead": "Gina Pink",
+                        "members": ["Jack Red", "Kara Yellow"]
+                    }
+                }
+            }
+        }
+    }
+}
